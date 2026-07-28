@@ -148,8 +148,18 @@ Sample-size caveats are stated, not hidden. The third-place playoff and final ar
 from the by-stage average as single matches whose results would distort it, and this is
 noted on the page.
 
----
+## Dashboard
 
+### Page 1 — Tournament Overview
+![Tournament Overview](images/page1_overview.png)
+
+### Page 2 — Team Performance
+![Team Performance](images/page2_team_performance.png)
+
+### Page 3 — Player Performance
+![Player Performance](images/page3_player_performance.png)
+
+---
 ## Reproducing
 
 1. Create a PostgreSQL database and run `01_schema.sql`. Requires the `unaccent` extension.
