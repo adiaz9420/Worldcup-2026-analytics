@@ -187,3 +187,7 @@ Penalty shootout goals are excluded from `goals` by design. Shootout outcomes ar
 through the `advanced` flag on `fact_team_match`.
 
 Expected goals figures are as supplied by the source and their model is not documented.
+
+---
+
+Source data: [FIFA WORLD CUP 2026 DATASET(All 104 Matches)] via Kaggle — [https://www.kaggle.com/datasets/sahilmo/fifa-world-cup-2026-datasetgroup-stage]
