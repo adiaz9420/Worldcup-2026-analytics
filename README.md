@@ -151,13 +151,13 @@ noted on the page.
 ## Dashboard
 
 ### Page 1 — Tournament Overview
-![Tournament Overview](images/page1_overview.png)
+![Tournament Overview](images/page1_overview.jpg)
 
 ### Page 2 — Team Performance
-![Team Performance](images/page2_team_performance.png)
+![Team Performance](images/page2_team_performance.jpg)
 
 ### Page 3 — Player Performance
-![Player Performance](images/page3_player_performance.png)
+![Player Performance](images/page3_player_performance.jpg)
 
 ---
 ## Reproducing
