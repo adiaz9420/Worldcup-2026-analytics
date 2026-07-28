@@ -1,0 +1,309 @@
+goal_no,scored_for,scored_by,minute,half,assist_by,goal_type,scored_ag,match_no
+1,Mexico,Julian Quinones,9,1,Erik Lira,Regular,South Africa,1
+2,Mexico,Raul Jimenez,67,2,Roberto Alvarado,Header,South Africa,1
+3,Czechia,Ladislav Krejci,59,2,Vladimir Coufal,Header,South Korea,2
+4,South Korea,Hwang In-beom,67,2,Kang-in Lee,Regular,Czechia,2
+5,South Korea,Hyeon-gyu Oh,80,2,Hwang In-beom,Regular,Czechia,2
+6,Bosnia and Herzegovina,Jovo Lukic,21,1,Sead Kolasinac,Header,Canada,3
+7,Canada,Cyle Larin,78,2,Promise David,Regular,Bosnia and Herzegovina,3
+8,USA,Damian Bobadilla,7,1,,Own Goal,Paraguay,4
+9,USA,Folarin Balogun,31,1,Christian Pulisic,Regular,Paraguay,4
+10,USA,Folarin Balogun,50,1,Malik Tillman,Regular,Paraguay,4
+11,Paraguay,Mauricio,73,2,Julio Enciso,Regular,USA,4
+12,USA,Giovanni Reyna,98,2,Alexander Freeman,Regular,Paraguay,4
+13,Switzerland,Breel Embolo,17,1,,Penalty,Qatar,5
+14,Qatar,Miro Muheim,94,2,,Own Goal,Switzerland,5
+15,Morocco,Ismael Saibari,21,1,Brahim Diaz,Regular,Brazil,6
+16,Brazil,Vinicius Junior,32,1,Bruno Guimaraes,Regular,Morocco,6
+17,Scotland,John McGinn,29,1,,Regular,Haiti,7
+18,Australia,Nestory Irankunda,27,1,Paul Okon-Engstler,Regular,Turkiye,8
+19,Australia,Connor Metcalfe,75,2,,Regular,Turkiye,8
+20,Germany,Felix Nmecha,6,1,Florian Wirtz,Regular,Curaçao,9
+21,Curaçao,Livano Comenencia,21,1,,Regular,Germany,9
+22,Germany,Nico Schlotterbeck,38,1,Nathaniel Brown,Header,Curaçao,9
+23,Germany,Kai Havertz,50,1,,Penalty,Curaçao,9
+24,Germany,Jamal Musiala,47,2,Joshua Kimmich,Regular,Curaçao,9
+25,Germany,Nathaniel Brown,68,2,Deniz Undav,Regular,Curaçao,9
+26,Germany,Deniz Undav,78,2,Joshua Kimmich,Regular,Curaçao,9
+27,Germany,Kai Havertz,88,2,Deniz Undav,Regular,Curaçao,9
+28,Netherlands,Virgil Van Dijk,50,2,Ryan Gravenberch,Header,Japan,10
+29,Japan,Keito Nakamura,57,2,Takefusa Kubo,Regular,Netherlands,10
+30,Netherlands,Crysencio Summerville,64,2,Ryan Gravenberch,Regular,Japan,10
+31,Japan,Daichi Kamada,89,2,Koki Ogawa,Header,Netherlands,10
+32,Ivory Coast,Amad Diallo,90,2,Wilfried Singo,Regular,Ecuador,11
+33,Sweden,Yasin Ayari,7,1,,Regular,Tunisia,12
+34,Sweden,Alexander Isak,30,1,Viktor Gyokeres,Regular,Tunisia,12
+35,Tunisia,Omar Rekik,43,1,Hannibal Mejbri,Header,Sweden,12
+36,Sweden,Viktor Gyokeres,59,2,Alexander Isak,Regular,Tunisia,12
+37,Sweden,Mattias Svanberg,84,2,Alexander Isak,Regular,Tunisia,12
+38,Sweden,Yasin Ayari,96,2,Lucas Bergvall,Regular,Tunisia,12
+39,Egypt,Emam Ashour,19,1,Mohamed Salah,Regular,Belgium,14
+40,Belgium,Mohamed Hany,66,2,,Own Goal,Egypt,14
+41,Saudi Arabia,Abdulelah Al-Amri,41,1,,Regular,Uruguay,15
+42,Uruguay,Maximiliano Araújo,80,2,,Regular,Saudi Arabia,15
+43,New Zealand,Elijah Just,7,1,Chris Wood,Regular,Iran,16
+44,Iran,Ramin Rezaeian,32,1,,Regular,New Zealand,16
+45,New Zealand,Elijah Just,54,2,Chris Wood,Regular,Iran,16
+46,Iran,Mohammad Mohebi,64,2,Ramin Rezaeian,Header,New Zealand,16
+47,France,Kylian Mbappé,66,2,Michael Olise,Regular,Senegal,17
+48,France,Bradley Barcola,82,2,Adrien Rabiot,Regular,Senegal,17
+49,Senegal,Ibrahim Mbaye,95,2,Iliman Ndiaye,Regular,France,17
+50,France,Kylian Mbappé,96,2,,Regular,Senegal,17
+51,Norway,Erling Haaland,29,1,David Møller Wolfe,Regular,Iraq,18
+52,Iraq,Aymen Hussein,39,1,Amir Al-Ammari,Header,Norway,18
+53,Norway,Erling Haaland,43,1,,Regular,Iraq,18
+54,Norway,Leo Østigård,77,2,Martin Ødegaard,Header,Iraq,18
+55,Norway,Aymen Hussein,97,2,,Own Goal,Iraq,18
+56,Argentina,Lionel Messi,17,1,Rodrigo De Paul,Regular,Algeria,19
+57,Argentina,Lionel Messi,60,2,,Regular,Algeria,19
+58,Argentina,Lionel Messi,76,2,Nicolás González,Regular,Algeria,19
+59,Austria,Romano Schmid,20,1,Xaver Schlager,Regular,Jordan,20
+60,Jordan,Ali Olwan,50,2,Noor Al-Deen Al Rawabdeh,Regular,Austria,20
+61,Austria,Yazan Al-Arab,76,2,,Own Goal,Jordan,20
+62,Austria,Marko Arnautovic,102,2,,Penalty,Jordan,20
+63,Portugal,João Neves,6,1,Pedro Neto,Header,DR Congo,21
+64,DR Congo,Yoane Wissa,50,1,Arthur Masuaku,Header,Portugal,21
+65,England,Harry Kane,12,1,,Penalty,Croatia,22
+66,Croatia,Martin Baturina,36,1,Petar Sucic,Regular,England,22
+67,England,Harry Kane,42,1,Declan Rice,Header,Croatia,22
+68,Croatia,Petar Musa,50,1,Ivan Perisic,Regular,England,22
+69,England,Jude Bellingham,47,2,Elliot Anderson,Regular,Croatia,22
+70,England,Marcus Rashford,85,2,Bukayo Saka,Regular,Croatia,22
+71,Ghana,Caleb Yirenkyi,95,2,Brandon Thomas-Asante,Regular,Panama,23
+72,Colombia,Daniel Muñoz,40,1,Luis Díaz,Regular,Uzbekistan,24
+73,Uzbekistan,Abbosbek Fayzullaev,60,2,,Header,Colombia,24
+74,Colombia,Luis Díaz,65,2,Gustavo Puerta,Regular,Uzbekistan,24
+75,Colombia,Jaminton Campaz,99,2,Cucho Hernández,Header,Uzbekistan,24
+76,Czechia,Michal Sadílek,6,1,Alexandr Sojka,Regular,South Africa,25
+77,South Africa,Teboho Mokoena,83,2,,Penalty,Czechia,25
+78,Switzerland,Johan Manzambi,74,2,,Regular,Bosnia and Herzegovina,26
+79,Switzerland,Ruben Vargas,84,2,Breel Embolo,Regular,Bosnia and Herzegovina,26
+80,Switzerland,Johan Manzambi,90,2,Ruben Vargas,Regular,Bosnia and Herzegovina,26
+81,Bosnia and Herzegovina,Ermin Mahmic,93,2,,Regular,Switzerland,26
+82,Switzerland,Granit Xhaka,97,2,,Penalty,Bosnia and Herzegovina,26
+83,Canada,Cyle Larin,16,1,,Regular,Qatar,27
+84,Canada,Jonathan David,29,1,,Regular,Qatar,27
+85,Canada,Jonathan David,48,1,,Regular,Qatar,27
+86,Canada,Nathan-Dylan Saliba,64,2,,Free kick,Qatar,27
+87,Canada,Mohamed Naceur Almanai,75,2,,Own goal,Qatar,27
+88,Canada,Jonathan David,92,2,Nathan-Dylan Saliba,Regular,Qatar,27
+89,Mexico,Luis Romo,50,2,,Regular,South Korea,28
+90,USA,Cameron Burgess,11,1,,Own goal,Australia,29
+91,USA,Alexander Freeman,43,1,,Header,Australia,29
+92,Morocco,Ismael Saibari,2,1,Brahim Diaz,Regular,Scotland,30
+93,Brazil,Matheus Cunha,23,1,,Regular,Haiti,31
+94,Brazil,Matheus Cunha,36,1,Vinicius Junior,Regular,Haiti,31
+95,Brazil,Vinicius Junior,48,1,Lucas Paqueta,Regular,Haiti,31
+96,Paraguay,Matias Galarza,2,1,Julio Enciso,Regular,Türkiye,32
+97,Netherlands,Brian Brobbey,5,1,Cody Gakpo,Regular,Sweden,33
+98,Netherlands,Brian Brobbey,17,1,Denzel Dumfries,Regular,Sweden,33
+99,Netherlands,Cody Gakpo,47,2,Denzel Dumfries,Regular,Sweden,33
+100,Netherlands,Cody Gakpo,54,2,Crysencio Summerville,Regular,Sweden,33
+101,Sweden,Anthony Elanga,59,2,Alexander Isak,Regular,Netherlands,33
+102,Netherlands,Crysencio Summerville,89,2,Memphis Depay,Regular,Sweden,33
+103,Ivory Coast,Franck Kessié,30,1,,Regular,Germany,34
+104,Germany,Deniz Undav,68,2,Nadiem Amiri,Regular,Ivory Coast,34
+105,Germany,Deniz Undav,94,2,Felix Nmecha,Regular,Ivory Coast,34
+106,Japan,Daichi Kamada,4,1,Keito Nakamura,Regular,Tunisia,36
+107,Japan,Ayase Ueda,31,1,Ko Itakura,Regular,Tunisia,36
+108,Japan,Junya Ito,69,2,Ayase Ueda,Regular,Tunisia,36
+109,Japan,Ayase Ueda,83,2,Kaishu Sano,Header,Tunisia,36
+110,Spain,Lamine Yamal,10,1,Mikel Oyarzabal,Regular,Saudi Arabia,37
+111,Spain,Mikel Oyarzabal,21,1,Aymeric Laporte,Regular,Saudi Arabia,37
+112,Spain,Mikel Oyarzabal,24,1,Dani Olmo,Regular,Saudi Arabia,37
+113,Spain,Hassan Altambakti,49,2,,Own goal,Saudi Arabia,37
+114,Cape Verde,Kevin Lenini,21,1,,Free kick,Uruguay,39
+115,Uruguay,Maximiliano Araújo,44,1,,Header,Cape Verde,39
+116,Uruguay,Agustín Canobbio,51,1,Maximiliano Araújo,Regular,Cape Verde,39
+117,Cape Verde,Hélio Varela,61,2,,Regular,Uruguay,39
+118,New Zealand,Finn Surman,15,1,Tim Payne,Header,Egypt,40
+119,Egypt,Mostafa Ziko,58,2,Mohamed Hany,Header,New Zealand,40
+120,Egypt,Mohamed Salah,67,2,Mostafa Ziko,Regular,New Zealand,40
+121,Egypt,Mahmoud Trezeguet,82,2,Mohamed Salah,Header,New Zealand,40
+122,Argentina,Lionel Messi,38,1,Facundo Medina,Regular,Austria,41
+123,Argentina,Lionel Messi,95,2,,Regular,Austria,41
+124,France,Kylian Mbappé,14,1,Michael Olise,Regular,Iraq,42
+125,France,Kylian Mbappé,54,2,Ousmane Dembélé,Regular,Iraq,42
+126,France,Ousmane Dembélé,66,2,Michael Olise,Regular,Iraq,42
+127,Norway,Marcus Pedersen,43,1,,Regular,Senegal,43
+128,Norway,Erling Haaland,48,2,Martin Ødegaard,Regular,Senegal,43
+129,Senegal,Ismaïla Sarr,53,2,Sadio Mané,Regular,Norway,43
+130,Norway,Erling Haaland,58,2,Patrick Berg,Regular,Senegal,43
+131,Senegal,Ismaïla Sarr,93,2,Nicolas Jackson,Regular,Norway,43
+132,Jordan,Nizar Mahmoud Al-Rashdan,36,1,Mousa Tamari,Regular,Algeria,44
+133,Algeria,Ahmed Nadhir Benbouali,69,2,Riyad Mahrez,Header,Jordan,44
+134,Algeria,Amine Gouiri,82,2,,Regular,Jordan,44
+135,Portugal,Cristiano Ronaldo,6,1,João Cancelo,Regular,Uzbekistan,45
+136,Portugal,Nuno Mendes,17,1,,Free kick,Uzbekistan,45
+137,Portugal,Cristiano Ronaldo,39,1,Bruno Fernandes,Regular,Uzbekistan,45
+138,Portugal,Abduvokhid Nematov,60,2,,Own goal,Uzbekistan,45
+139,Portugal,Rafael Leão,87,2,,Regular,Uzbekistan,45
+140,Croatia,Ante Budimir,54,2,Josip Stanisic,Regular,Panama,47
+141,Colombia,Daniel Muñoz,76,2,Juan Fernando Quintero,Regular,DR Congo,48
+142,Bosnia and Herzegovina,Kerim Alajbegovic,29,1,Ivan Basic,Regular,Qatar,49
+143,Bosnia and Herzegovina,Mahmud Abunad,34,1,,Own Goal,Qatar,49
+144,Qatar,Hassan Al Haydos,42,1,Edmilson Junior,Regular,Bosnia and Herzegovina,49
+145,Switzerland,Ruben Vargas,46,2,Johan Manzambi,Regular,Canada,50
+146,Switzerland,Johan Manzambi,57,2,Breel Embolo,Regular,Canada,50
+147,Canada,Promise David,76,2,Nathan-Dylan Saliba,Regular,Switzerland,50
+148,Bosnia and Herzegovina,Ermin Mahmic,81,2,Dennis Hadzikadunic,Regular,Qatar,49
+149,Brazil,Vinicius Junior,7,1,Rayan,Regular,Scotland,52
+150,Haiti,Bono,10,1,,Own Goal,Morocco,51
+151,Morocco,Achraf Hakimi,39,1,,Regular,Haiti,51
+152,Haiti,Wilson Isidor,43,1,Jean-Kevin Duverne,Regular,Morocco,51
+153,Morocco,Ismael Saibari,46,1,Achraf Hakimi,Regular,Haiti,51
+154,Brazil,Vinicius Junior,48,1,Bruno Guimaraes,Header,Scotland,52
+155,Brazil,Matheus Cunha,60,2,Bruno Guimaraes,Regular,Scotland,52
+156,Morocco,Soufiane Rahimi,78,2,Chadi Riad,Regular,Haiti,51
+157,Morocco,Gessime Yassine,89,2,Soufiane Rahimi,Regular,Haiti,51
+158,Mexico,Mateo Chavez,55,2,Luis Romo,Regular,Czechia,53
+159,Mexico,Julian Quinones,61,2,Jorge Sanchez,Regular,Czechia,53
+160,South Africa,Thapelo Maseko,63,2,Tshepang Moremi,Regular,South Korea,54
+161,Mexico,Alvaro Fidalgo,94,2,Roberto Alvarado,Regular,Czechia,53
+162,Germany,Leroy Sane,2,1,Florian Wirtz,Regular,Ecuador,56
+163,Ivory Coast,Nicolas Pepe,7,1,Yan Diomande,Regular,Curaçao,55
+164,Ecuador,Nilson Angulo,9,1,Pedro Vite,Regular,Germany,56
+165,Ivory Coast,Nicolas Pepe,64,2,Ibrahim Sangare,Regular,Curaçao,55
+166,Ecuador,Gonzalo Plata,78,2,Kevin Rodriguez,Regular,Germany,56
+167,Netherlands,Ellyes Skhiri,3,1,,Own goal,Tunisia,58
+168,Netherlands,Brian Brobbey,7,1,Virgil van Dijk,Regular,Tunisia,58
+169,Tunisia,Hazem Mastouri,54,2,Hannibal Mejbri,Header,Netherlands,58
+170,Japan,Daizen Maeda,56,2,Ritsu Doan,Regular,Sweden,57
+171,Sweden,Anthony Elanga,62,2,Viktor Gyokeres,Regular,Japan,57
+172,Netherlands,Jan Paul van Hecke,62,2,Tijjani Reijnders,Header,Tunisia,58
+173,USA,Auston Trusty,3,1,Sebastian Berhalter,Regular,Türkiye,60
+174,Türkiye,Arda Guler,10,1,Baris Alper Yilmaz,Regular,USA,60
+175,Türkiye,Baris Alper Yilmaz,31,1,Orkun Kokcu,Regular,USA,60
+176,USA,Sebastian Berhalter,49,2,,Regular,Türkiye,60
+177,Türkiye,Kaan Ayhan,98,2,,Regular,USA,60
+178,Senegal,Habib Diarra,4,1,Abdoulaye Seck,Regular,Iraq,62
+179,France,Ousmane Dembélé,7,1,Kylian Mbappé,Regular,Norway,61
+180,France,Ousmane Dembélé,20,1,Kylian Mbappé,Regular,Norway,61
+181,Norway,Thelo Aasgaard,21,1,Andreas Schjelderup,Regular,France,61
+182,France,Ousmane Dembélé,32,1,Aurélien Tchouaméni,Regular,Norway,61
+183,Senegal,Ismaïla Sarr,56,2,Lamine Camara,Regular,Iraq,62
+184,Senegal,Pape Gueye,59,2,Ismaïla Sarr,Regular,Iraq,62
+185,Senegal,Pape Gueye,71,2,Iliman Ndiaye,Regular,Iraq,62
+186,Senegal,Iliman Ndiaye,82,2,Pape Gueye,Regular,Iraq,62
+187,France,Désiré Doué,94,2,Bradley Barcola,Header,Norway,61
+188,Spain,Álex Baena,42,1,Marcos Llorente,Regular,Uruguay,62
+189,Egypt,Mahmoud Saber,5,1,Mahmoud Trezeguet,Regular,Iran,65
+190,Iran,Ramin Rezaeian,14,1,,Regular,Egypt,65
+191,Belgium,Leandro Trossard,28,1,,Regular,New Zealand,66
+192,Belgium,Leandro Trossard,50,2,Hans Vanaken,Regular,New Zealand,66
+193,Belgium,Kevin De Bruyne,66,2,,Regular,New Zealand,66
+194,New Zealand,Elijah Just,84,2,,Regular,Belgium,66
+195,Belgium,Romelu Lukaku,86,2,Nicolas Raskin,Header,New Zealand,66
+196,Belgium,Alexis Saelemaekers,91,2,Romelu Lukaku,Regular,New Zealand,66
+197,Croatia,Petar Sucic,31,1,Mateo Kovacic,Regular,Ghana,67
+198,England,Jude Bellingham,62,2,Bukayo Saka,Regular,Panama,68
+199,England,Harry Kane,67,2,Jude Bellingham,Header,Panama,68
+200,Ghana,Derrick Luckassen,73,2,Ernest Nuamah,Regular,Croatia,67
+201,Croatia,Nikola Vlasic,83,2,Luka Modric,Header,Ghana,67
+202,Uzbekistan,Eldor Shomurodov,10,1,Akmal Mozgovoy,Regular,DR Congo,70
+203,DR Congo,Yoane Wissa,68,2,,Penalty,Uzbekistan,70
+204,DR Congo,Fiston Mayele,78,2,,Regular,Uzbekistan,70
+205,DR Congo,Yoane Wissa,91,2,Meschak Elia,Regular,Uzbekistan,70
+206,Argentina,Giovani Lo Celso,19,1,,Free Kick,Jordan,72
+207,Austria,Marko Arnautovic,28,1,David Alaba,Regular,Algeria,71
+208,Argentina,Lautaro Martínez,31,1,,Penalty,Jordan,72
+209,Algeria,Rafik Belghali,45,1,,Regular,Austria,71
+210,Austria,Marcel Sabitzer,55,2,Konrad Laimer,Regular,Algeria,71
+211,Jordan,Mousa Tamari,55,2,Ehsan Haddad,Regular,Argentina,72
+212,Algeria,Riyad Mahrez,60,2,Houssem Aouar,Regular,Austria,71
+213,Argentina,Lionel Messi,80,2,,Free Kick,Jordan,72
+214,Algeria,Riyad Mahrez,93,2,Houssem Aouar,Regular,Austria,71
+215,Austria,Sasa Kalajdzic,96,2,Michael Gregoritsch,Header,Algeria,71
+216,Canada,Stephen Eustaquio,92,2,,Regular,South Africa,73
+217,Japan,Kaishu Sano,29,1,,Regular,Brazil,74
+218,Brazil,Casemiro,56,2,Gabriel Magalhaes,Header,Japan,74
+219,Brazil,Gabriel Martinelli,95,2,Bruno Guimaraes,Regular,Japan,74
+220,Paraguay,Julio Enciso,42,1,Matías Galarza,Header,Germany,75
+221,Germany,Kai Havertz,54,2,Florian Wirtz,Header,Paraguay,75
+222,Netherlands,Cody Gakpo,72,2,Crysencio Summerville,Regular,Morocco,76
+223,Morocco,Issa Diop,91,2,Chemsdine Talbi,Header,Netherlands,76
+224,Norway,Antonio Nusa,39,1,Martin Ødegaard,Regular,Ivory Coast,77
+225,Ivory Coast,Amad Diallo,74,2,Nicolas Pepe,Regular,Norway,77
+226,Norway,Erling Haaland,86,2,Patrick Berg,Regular,Ivory Coast,77
+227,France,Kylian Mbappé,45,1,Ousmane Dembélé,Regular,Sweden,78
+228,France,Bradley Barcola,53,2,Michael Olise,Regular,Sweden,78
+229,France,Kylian Mbappé,74,2,Michael Olise,Regular,Sweden,78
+230,Mexico,Julian Quinones,22,1,Roberto Alvarado,Regular,Ecuador,79
+231,Mexico,Raul Jimenez,31,1,Julian Quinones,Regular,Ecuador,79
+232,DR Congo,Brian Cipenga,7,1,Chancel Mbemba,Regular,England,80
+233,England,Harry Kane,75,2,Anthony Gordon,Header,DR Congo,80
+234,England,Harry Kane,86,2,Anthony Gordon,Regular,DR Congo,80
+235,Senegal,Habib Diarra,24,1,,Regular,Belgium,81
+236,Senegal,Ismaïla Sarr,51,2,Moussa Niakhaté,Regular,Belgium,81
+237,Belgium,Romelu Lukaku,86,2,Thomas Meunier,Regular,Senegal,81
+238,Belgium,Youri Tielemans,89,2,Leandro Trossard,Header,Senegal,81
+239,Belgium,Youri Tielemans,125,ET-2,,Penalty,Senegal,81
+240,USA,Folarin Balogun,45,1,,Regular,Bosnia and Herzegovina,82
+241,USA,Malik Tillman,82,2,,Free Kick,Bosnia and Herzegovina,82
+242,Spain,Mikel Oyarzabal,36,1,Marc Cucurella,Regular,Austria,83
+243,Spain,Pedro Porro,66,2,Álex Baena,Header,Austria,83
+244,Spain,Mikel Oyarzabal,89,2,Marc Cucurella,Regular,Austria,83
+245,Croatia,Ivan Perisic,53,2,,Regular,Portugal,84
+246,Portugal,Cristiano Ronaldo,68,2,,Penalty,Croatia,84
+247,Portugal,Gonçalo Ramos,94,2,Rafael Leão,Header,Croatia,84
+248,Switzerland,Breel Embolo,10,1,Johan Manzambi,Regular,Algeria,85
+249,Switzerland,Dan Ndoye,46,2,,Regular,Algeria,85
+250,Egypt,Emam Ashour,13,1,Karim Hafez,Header,Australia,86
+251,Australia,Mohamed Hany,55,2,,Own goal,Egypt,86
+252,Argentina,Lionel Messi,29,1,Lisandro Martínez,Regular,Cape Verde,87
+253,Cape Verde,Deroy Duarte,59,2,Ryan Mendes,Regular,Argentina,87
+254,Argentina,Lisandro Martínez,92,ET-1,Alexis Mac Allister,Regular,Cape Verde,87
+255,Cape Verde,Sidny Lopes Cabral,103,ET-1,Yannick Semedo,Regular,Argentina,87
+256,Argentina,Diney Borges,111,ET-2,,Own goal,Cape Verde,87
+257,Colombia,Jhon Arias,14,1,Luis Javier Suárez,Regular,Ghana,88
+258,Morocco,Azzedine Ounahi,50,2,Achraf Hakimi,Regular,Canada,89
+259,Morocco,Azzedine Ounahi,82,2,Brahim Díaz,Regular,Canada,89
+260,Morocco,Soufiane Rahimi,98,2,Brahim Díaz,Regular,Canada,89
+261,France,Kylian Mbappé,70,2,,Penalty,Paraguay,90
+262,Norway,Erling Haaland,79,2,Andreas Schjelderup,Header,Brazil,91
+263,Norway,Erling Haaland,90,2,Andreas Schjelderup,Regular,Brazil,91
+264,Brazil,Neymar,100,2,,Penalty,Norway,91
+265,England,Jude Bellingham,36,1,Bukayo Saka,Header,Mexico,92
+266,England,Jude Bellingham,38,1,Harry Kane,Regular,Mexico,92
+267,Mexico,Julián Quiñones,42,1,,Regular,England,92
+268,England,Harry Kane,60,2,,Penalty,Mexico,92
+269,Mexico,Raul Jiménez,69,2,,Penalty,England,92
+270,Spain,Mikel Merino,91,2,Ferran Torres,Regular,Portugal,93
+271,Belgium,Charles De Ketelaere,9,1,Nicolas Raskin,Regular,USA,94
+272,USA,Malik Tillman,31,1,,Free kick,Belgium,94
+273,Belgium,Charles De Ketelaere,33,1,Leandro Trossard,Header,USA,94
+274,Belgium,Hans Vanaken,57,2,Charles De Ketelaere,Regular,USA,94
+275,Belgium,Romelu Lukaku,93,2,Hans Vanaken,Regular,USA,94
+276,Egypt,Yasser Ibrahim,15,1,Marwan Attia,Header,Argentina,95
+277,Egypt,Mostafa Ziko,67,2,Haissem Hassan,Regular,Argentina,95
+278,Argentina,Cristian Romero,79,2,Lionel Messi,Header,Egypt,95
+279,Argentina,Lionel Messi,83,2,Gonzalo Montiel,Regular,Egypt,95
+280,Argentina,Enzo Fernández,92,2,Lautaro Martínez,Header,Egypt,95
+281,France,Kylian Mbappé,60,2,Désiré Doué,Regular,Morocco,97
+282,France,Ousmane Dembélé,66,2,Kylian Mbappé,Regular,Morocco,97
+283,Spain,Fabián Ruiz,30,1,,Regular,Belgium,98
+284,Belgium,Charles De Ketelaere,41,1,Timothy Castagne,Header,Spain,98
+285,Spain,Mikel Merino,88,2,,Regular,Belgium,98
+286,Norway,Andreas Schjelderup,36,1,Martin Ødegaard,Regular,England,99
+287,England,Jude Bellingham,47,1,Anthony Gordon,Regular,Norway,99
+288,England,Jude Bellingham,93,ET-1,,Regular,Norway,99
+289,Argentina,Alexis Mac Allister,10,1,Lionel Messi,Header,Switzerland,100
+290,Switzerland,Dan Ndoye,67,2,Ricardo Rodríguez,Regular,Argentina,100
+291,Argentina,Julián Álvarez,112,ET-2,José Manuel López,Regular,Switzerland,100
+292,Argentina,Lautaro Martínez,121,ET-2,,Regular,Switzerland,100
+293,Spain,Mikel Oyarzabal,22,1,,Penalty,France,101
+294,Spain,Pedro Porro,58,2,Dani Olmo,Regular,France,101
+295,England,Anthony Gordon,55,2,Morgan Rogers,Regular,Argentina,102
+296,Argentina,Enzo Fernández,85,2,Lionel Messi,Regular,England,102
+297,Argentina,Lautaro Martínez,92,2,Lionel Messi,Header,England,102
+298,England,Declan Rice,3,1,,Regular,France,103
+299,England,Ezri Konsa,18,1,Declan Rice,Header,France,103
+300,England,Bukayo Saka,37,1,Marcus Rashford,Regular,France,103
+301,England,Bukayo Saka,46,1,Eberechi Eze,Regular,France,103
+302,France,Kylian Mbappé,48,2,Michael Olise,Regular,England,103
+303,France,Bradley Barcola,54,2,Kylian Mbappé,Regular,England,103
+304,France,Kylian Mbappé,66,2,Michael Olise,Regular,England,103
+305,England,Bukayo Saka,87,2,,Penalty,France,103
+306,France,Ousmane Dembélé,96,2,Dayot Upamecano,Regular,England,103
+307,England,Jude Bellingham,98,2,,Regular,France,103
+308,Spain,Ferran Torres,106,ET-2,Nico Williams,Regular,Argentina,104
